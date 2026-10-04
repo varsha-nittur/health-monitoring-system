@@ -79,7 +79,3 @@ To run it:
 - Add a buzzer or LED alert when the rate goes above or below a set range
 - Add a temperature sensor to make it a fuller health monitor
 - Send the readings over Wi-Fi with an ESP32 to a phone app or dashboard
-
-## Credits
-
-Built following a publicly available Arduino pulse sensor tutorial. The circuit diagram and the two explanatory images above are from that tutorial and are used here for illustration only.
